@@ -35,11 +35,11 @@
 
 <br>
 <div align ="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonyoungchoi0801&show_icons=true&theme=gruvbox)]
+  <img src="https://github-readme-stats.vercel.app/api?username=joonyoungchoi0801&show_icons=true&theme=gruvbox" />
 </div>
 
 
-
+ 
 
 
 <!--
