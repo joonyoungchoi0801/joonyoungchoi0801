@@ -36,6 +36,7 @@
 <br>
 <div align ="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joonyoungchoi0801&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joonyoungchoi0801&layout=compact"/>
 </div>
 
 
